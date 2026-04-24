@@ -5,4 +5,4 @@ Note: The code is written in Julia, if you are not familiar take a look on https
 
 Supervisor: Joaquín Peñuela-Parra
 
-Students: WRITE YOUR NAMES HERE.
+Students: Chris Clineff
